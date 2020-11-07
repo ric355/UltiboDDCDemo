@@ -2,14 +2,14 @@
 <CONFIG>
   <ProjectSession>
     <Version Value="9"/>
-    <BuildModes Active="RPI 1"/>
+    <BuildModes Active="RPI ZERO"/>
     <Units Count="7">
       <Unit0>
         <Filename Value="ddctest.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="13"/>
-        <CursorPos X="21" Y="20"/>
+        <TopLine Value="16"/>
+        <CursorPos X="100" Y="33"/>
         <UsageCount Value="31"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -58,7 +58,7 @@
         <UsageCount Value="10"/>
       </Unit6>
     </Units>
-    <JumpHistory Count="21" HistoryIndex="20">
+    <JumpHistory Count="23" HistoryIndex="22">
       <Position1>
         <Filename Value="ddctest.lpr"/>
         <Caret Line="67" Column="74" TopLine="58"/>
@@ -143,6 +143,14 @@
         <Filename Value="ddctest.lpr"/>
         <Caret Line="231" Column="21" TopLine="221"/>
       </Position21>
+      <Position22>
+        <Filename Value="ddctest.lpr"/>
+        <Caret Line="31" Column="101" TopLine="13"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ddctest.lpr"/>
+        <Caret Line="187" Column="14" TopLine="174"/>
+      </Position23>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>

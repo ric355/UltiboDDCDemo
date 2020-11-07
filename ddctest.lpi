@@ -117,7 +117,7 @@
             <LinkSmart Value="True"/>
           </Linking>
           <Other>
-            <CustomOptions Value="-dRPIZERO"/>
+            <CustomOptions Value="-dZERO"/>
           </Other>
         </CompilerOptions>
       </Item4>
